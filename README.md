@@ -4,7 +4,7 @@
   <img src="https://github.com/rgbm21/CatchAMovie/blob/master/Screenshots/Scrn1.PNG" alt="Screenshot"/>
 </p>
 
-###Packages used :wrench:
+###:package: used :wrench:
 * Jquery
 * SuperSlides
 * Semantic
